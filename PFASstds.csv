@@ -1,0 +1,79 @@
+List,PFAS Standard,Note,m/z,RT
+Short-Chain,"2,3,3,3 TFPrA",,144.9918,1.4
+Short-Chain,"2,3,3,3 TFPrA double peak",doublet due to solvent mis-match,144.9918,1.7
+Short-Chain,DFA,,94.995,1.3
+Short-Chain,TFA,,112.9856,1.2
+Short-Chain,PFPrA,,162.9824,1.4
+Short-Chain,PFPrA double peak,,162.9824,3.2
+Short-Chain,TFMS,,148.9526,1.9
+Short-Chain,FBSA,,297.959,6.9
+Short-Chain,PFEtS,,198.9494,3.8
+Compendium - Internal Standard/Precursor Mix, d5-N EtFOSAA,,589.0144,20.7
+Compendium - Surrogate,M3 PFBA,,215.9893,4.7
+Compendium - Surrogate,M3 PFPeA,,265.9861,6.8
+Compendium - Surrogate,M5PFHxA,,317.9896,9.5
+Compendium - Surrogate,M8PFOA,,420.9933,14.8
+Compendium - Surrogate,MPFUdA,,564.9636,20.5
+Compendium - Surrogate,MPFDoA,,614.9604,21.9
+Compendium - Surrogate,MPFTeDA,,714.954,24
+Compendium - Surrogate,M3 PFBS,,301.9531,7.3
+Compendium - Surrogate,M3PFHxS,,401.9467,12.6
+Compendium - Surrogate,M8PFOS,,506.9571,17.1
+Compendium - Surrogate, M3 HFPO-DA,,331.9778,10.3
+Compendium - Surrogate, M3 HFPO-DA fragment,,286.9846,10.3
+Compendium - Surrogate,M8 FOSA,,505.973,17.5
+Compendium - Surrogate,"13C2,D4 4:2 FTS",,333.0061,9.2
+Compendium - Surrogate,"13C2,D4 6:2 FTS",,432.9997,14.7
+Compendium - Surrogate,"13C2,D4 8:2 FTS",,532.9933,18.8
+Compendium - Surrogate,"13C2,D4 10:2 FTS",,632.9869,21.9
+Compendium - Natives,PFBA,,212.9792,4.7
+Compendium - Natives,PFPeA,,262.976,6.8
+Compendium - Natives,PFHxA,,312.9728,9.5
+Compendium - Natives,PFHpA,,362.9696,12.3
+Compendium - Natives,PFOA,,412.9664,14.8
+Compendium - Natives,PFNA,,462.9632,17
+Compendium - Natives,PFDA,,512.96,18.9
+Compendium - Natives,PFUnA,,562.9568,20.5
+Compendium - Natives,PFDoA,,612.9537,21.9
+Compendium - Natives,PFTrDA,,662.9505,23
+Compendium - Natives,PFTeDA,,712.9473,24
+Compendium - Natives,PFBS,,298.943,7.3
+Compendium - Natives,PFPeS,,348.9398,10
+Compendium - Natives,PFHxS,,398.9366,12.6
+Compendium - Natives,PFHxS isomer 1,isomer1,398.9366,11.9
+Compendium - Natives,PFHxS isomer 2,isomer2,398.9366,12
+Compendium - Natives,PFHpS,,448.9334,15
+Compendium - Natives,PFOS,,498.9302,17.1
+Compendium - Natives,PFOS isomer 1,isomer1,498.9302,16.3
+Compendium - Natives,PFOS isomer 2,isomer2,498.9302,16.5
+Compendium - Natives,PFNS,,548.927,18.9
+Compendium - Natives,PFDS,,598.9238,20.5
+Compendium - Natives,PFUnDS,,648.9206,21.8
+Compendium - Natives,PFDoS,,698.9174,23
+Compendium - Natives,PFTrDS,,748.9142,24
+Compendium - Natives,FOSA,,497.9462,17.5
+Compendium - Natives,DONA,,376.9689,12.7
+Compendium - Natives, HFPO-DA,,328.9677,10.3
+Compendium - Natives, HFPO-DA fragment,,284.9779,10.3
+Compendium - Natives, 9Cl-PF3ONS,,530.8956,18.1
+Compendium - Natives, 11Cl-PF3OUdS,,630.8892,21.2
+Compendium - Natives,4:2 FTS,,326.9743,9.3
+Compendium - Natives,6:2 FTS,,426.9679,14.7
+Compendium - Natives,8:2 FTS,,526.9615,18.9
+Compendium - Natives,10:2 FTS,,626.9551,21.9
+Precursor Mix, L-PFPrS,,248.9462,5.2
+Precursor Mix,PFECHS,,460.9334,14.6
+Precursor Mix,PFHxDA,,812.9409,25.7
+Precursor Mix, FHxSA-I,,397.9526,12.6
+Precursor Mix, N-EtFOSA-M,,525.9775,23.6
+Precursor Mix, N-MeFOSA-M,,511.9619,22.2
+Precursor Mix,FOSAA,,555.9517,18.3
+Precursor Mix, N-MeFOSAA,,569.9673,19.6
+Precursor Mix, N-EtFOSAA,,583.983,20.4
+Precursor Mix,FPrPA (3:3 FTCA),,241.0105,6.6
+Precursor Mix,FPePA (5:3 FTCA),,341.0041,12.5
+Precursor Mix,FHpPA (7:3 FTCA),,440.9977,17.3
+Precursor Mix,PF4OPeA (PFMPA),,228.9741,5.4
+Precursor Mix,PF5OHxA (PFMBA),,278.9709,7.6
+Precursor Mix," 3,6-OPFHpA (NFDHA)",,294.9658,9
+Precursor Mix,PFEESA,,314.9379,8.4
